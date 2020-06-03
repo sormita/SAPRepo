@@ -1,2 +1,2 @@
-# SAPRepo
-This repository has ABAP source code.
+# ABAP-code-harvesting
+ABAP code harvesting
